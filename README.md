@@ -1,4 +1,3 @@
-# task-1
 # Online Security Knowledge Graph
 
 This project visualizes a mini knowledge graph focused on key concepts in online security using Python libraries.
